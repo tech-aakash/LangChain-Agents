@@ -3,7 +3,7 @@
 A beginner-friendly, **hands-on repo** for building real conversational AI agents using **LangChain**, **LangGraph**, and **Azure OpenAI**.
 
 <div align="center">
-  <img src="https://github.com/tech-aakash/LangChain-Agents/raw/main/your_logo.png" alt="LangChain Agents Banner" width="70%">
+  <img src="images/Lang chain.png" alt="LangChain Agents Banner" width="70%">
 </div>
 
 ---
