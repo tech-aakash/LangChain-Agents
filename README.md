@@ -1,4 +1,4 @@
-# 🚀 LangChain-Agents: Modern AI Agents with Azure OpenAI & LangGraph
+# LangChain-Agents: Modern AI Agents with Azure OpenAI & LangGraph
 
 A beginner-friendly, **hands-on repo** for building real conversational AI agents using **LangChain**, **LangGraph**, and **Azure OpenAI**.
 
