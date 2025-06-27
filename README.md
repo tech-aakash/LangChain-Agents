@@ -26,6 +26,7 @@ A beginner-friendly, **hands-on repo** for building real conversational AI agent
 | `PromptTemplate.ipynb`         | Dynamic prompt engineering in action     |
 | `PromptTemplateTypes.ipynb`    | Multi-variable prompt templates          |
 | `ConversationBufferMemory.ipynb`|  Chat memory (LangGraph & LangChain)    |
+| `MemoryChatDemo/main.py`       | Streamlit app demonstrating chat memory  |
 
 ---
 
@@ -35,3 +36,15 @@ A beginner-friendly, **hands-on repo** for building real conversational AI agent
 ```bash
 git clone https://github.com/tech-aakash/LangChain-Agents.git
 cd LangChain-Agents
+
+
+---
+
+## Run the Chat Memory Demo (Streamlit)
+
+Want to see chat memory in action with LangGraph + LangChain?
+
+### 1. Navigate to the demo folder:
+```bash
+cd MemoryChatDemo
+streamlit run main.py
