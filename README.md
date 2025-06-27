@@ -30,21 +30,24 @@ A beginner-friendly, **hands-on repo** for building real conversational AI agent
 
 ---
 
-## 🏁 Quick Start
-
-### 1. **Clone this repo**
-```bash
-git clone https://github.com/tech-aakash/LangChain-Agents.git
-cd LangChain-Agents
-
-
 ---
 
-## Run the Chat Memory Demo (Streamlit)
+## 🚀 Run the Chat Memory Demo (Streamlit)
 
-Want to see chat memory in action with LangGraph + LangChain?
+Experience multi-turn chat memory in action using **LangGraph** and **LangChain**, all powered by **Streamlit**.
 
-### 1. Navigate to the demo folder:
-```bash
-cd MemoryChatDemo
-streamlit run main.py
+### 🛠️ Steps to Launch
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/tech-aakash/LangChain-Agents.git
+   cd LangChain-Agents
+
+2. **Navigate to the demo folder**
+    ```bash
+    cd MemoryChatDemo
+
+3. **Lunch the Streamlit App**
+    ```bash
+    streamlit run main.py
+
